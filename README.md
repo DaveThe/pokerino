@@ -14,3 +14,6 @@ Doppia Coppia (Two Pairs) | ![Alt Text](https://upload.wikimedia.org/wikipedia/i
 Coppia (One Pair) | ![Alt Text](https://upload.wikimedia.org/wikipedia/it/6/67/Poker_coppia.gif "Poker_coppia") | Two cards with the same value (10-10)
 Carta Isolata o Carta Alta (High Card, No Pair) | ![Alt Text](https://upload.wikimedia.org/wikipedia/it/0/07/Carta.gif "Carta") | Simple value of the card (K)
 
+
+[LICENSE](https://enterprise.github.com/license)
+[USEFUL LINK](https://jobs.github.com/positions)
