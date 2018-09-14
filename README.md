@@ -15,5 +15,5 @@ Coppia (One Pair) | ![Alt Text](https://upload.wikimedia.org/wikipedia/it/6/67/P
 Carta Isolata o Carta Alta (High Card, No Pair) | ![Alt Text](https://upload.wikimedia.org/wikipedia/it/0/07/Carta.gif "Carta") | Simple value of the card (K)
 
 
-[LICENSE](https://enterprise.github.com/license)
+[LICENSE](https://enterprise.github.com/license) - 
 [USEFUL LINK](https://jobs.github.com/positions)
